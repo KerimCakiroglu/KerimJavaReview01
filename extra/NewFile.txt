@@ -1,0 +1,7 @@
+#Dardan is waiting for us
+#Sun Dec 04 10:37:43 PST 2022
+School=Neotech
+FirstName=Dardan
+LastName=Messi
+SSN=647-21-9034
+Age=60
